@@ -41,7 +41,7 @@ pip install -r requirements.txt
         ├── 4
         ├── SemanticLabel   
         ├── ClasssLabel
-    	└── HunmanRanking.txt   # Record hunman ranking information
+        └── HunmanRanking.txt   # Record hunman ranking information
     ```
 
 + Set the working directory path in ./MakeHumanEvaluationDataset/humanRankingSoftware.py
