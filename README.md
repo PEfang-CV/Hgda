@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 + The ranking of software operations
 
-  ![image-20240705093514242](.\figs\image-20240705093514242.png)
+  ![image-20240705093514242](./figs/image-20240705093514242.png)
 
 **Reward Model**
 
