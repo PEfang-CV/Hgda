@@ -70,8 +70,8 @@ class iSummaryWriter(object):
             return
 
         self.max_columns = params_num if params_num < self.max_columns_threshold else self.max_columns_threshold
-        max_rows = (params_num - 1) // self.max_columns + 1   # * 所有变量最多几行
-        figsize = self.figsize if self.figsize else (self.max_columns * 6,max_rows * 3)    # 根据图个数计算整个图的figsize
+        max_rows = (params_num - 1) // self.max_columns + 1  
+        figsize = self.figsize if self.figsize else (self.max_columns * 6,max_rows * 3)   
         self.fig, self.axes = plt.subplots(max_rows, self.max_columns, figsize=figsize)
 
         if params_num > 1 and len(self.axes.shape) == 1:
