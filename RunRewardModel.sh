@@ -1,0 +1,1 @@
+python RewardModelTrain.py --train_path  ./HumanEvaluationDataset/train --train_files ./HumanEvaluationDataset/train/trainname.txt --eval_path  ./HumanEvaluationDataset/test --eval_files ./HumanEvaluationDataset/train/evalnname.txt --save_dir ./chekpoints

@@ -1,0 +1,228 @@
+absl-py==1.0.0
+addict==2.4.0
+aiohttp==3.8.1
+aiosignal==1.2.0
+antlr4-python3-runtime==4.9.3
+anyio==3.6.1
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+async-timeout==4.0.1
+attrs==21.2.0
+Babel==2.10.1
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4 @ file:///home/linux1/recipes/ci/beautifulsoup4_1610988766420/work
+black==24.3.0
+bleach==5.0.0
+blobfile==2.0.1
+boto3==1.21.32
+botocore==1.24.32
+brotlipy==0.7.0
+cachetools==4.2.4
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1605538068321/work
+chardet @ file:///tmp/build/80754af9/chardet_1605303185383/work
+charset-normalizer==2.0.7
+click==8.1.7
+cloudpickle==3.0.0
+cmake==3.28.1
+colorama==0.4.6
+conda==4.9.2
+conda-build==3.21.4
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1603018141399/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1605544487601/work
+cycler==0.10.0
+Cython==3.0.8
+debugpy==1.6.0
+decorator @ file:///home/ktietz/src/ci/decorator_1611930055503/work
+defusedxml==0.7.1
+deprecation==2.1.0
+-e git+https://github.com/facebookresearch/detectron2.git@cc9266c2396d5545315e3601027ba4bc28e8c95b#egg=detectron2
+dnspython==2.1.0
+docopt==0.6.2
+dropblock==0.3.0
+easydict==1.9
+entrypoints==0.4
+fastjsonschema==2.15.3
+fastmoe==0.1.2
+ffmpeg==1.4
+filelock @ file:///home/linux1/recipes/ci/filelock_1610993975404/work
+frozenlist==1.2.0
+fsspec==2021.11.0
+future==0.18.2
+fvcore==0.1.5.post20221221
+gitdb==4.0.10
+GitPython==3.1.31
+glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+grpcio==1.42.0
+h5py==3.5.0
+huggingface-hub==0.14.1
+hydra-core==1.3.2
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+imageio==2.31.0
+imgaug==0.4.0
+importlib-metadata==4.8.2
+importlib-resources==5.7.1
+iopath==0.1.9
+ipdb==0.13.9
+ipykernel==6.13.0
+ipython @ file:///tmp/build/80754af9/ipython_1614615245721/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.7.0
+jedi==0.17.0
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1612213139570/work
+jmespath==1.0.0
+joblib==1.1.0
+json5==0.9.8
+jsonpatch==1.33
+jsonpickle==3.0.2
+jsonpointer==2.4
+jsonschema==4.5.1
+jupyter-client==7.3.1
+jupyter-core==4.10.0
+jupyter-packaging==0.12.0
+jupyter-server==1.17.0
+jupyterlab==3.4.2
+jupyterlab-pygments==0.2.2
+jupyterlab-server==2.13.0
+jupyterlab-widgets==1.1.0
+kiwisolver==1.3.2
+lazy-loader==0.2
+libarchive-c @ file:///home/linux1/recipes/ci/python-libarchive-c_1610974153025/work
+lit==17.0.6
+lxml==4.9.2
+Markdown==3.3.6
+MarkupSafe==1.1.1
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+mmcv-full==1.5.0
+mpi4py @ file:///croot/mpi4py_1671223370575/work
+mpmath==1.3.0
+multidict==5.2.0
+munch==3.0.0
+mypy-extensions==1.0.0
+nbclassic==0.3.7
+nbclient==0.6.3
+nbconvert==6.5.0
+nbformat==5.4.0
+nest-asyncio==1.5.5
+networkx==3.1
+notebook==6.4.11
+notebook-shim==0.1.0
+numpy==1.24.3
+oauthlib==3.1.1
+olefile==0.46
+omegaconf==2.3.0
+open3d==0.13.0
+opencv-python==4.5.5.64
+packaging==24.0
+pandas==1.4.2
+pandocfilters==1.5.0
+parso @ file:///tmp/build/80754af9/parso_1607623074025/work
+pathspec==0.12.1
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.1.0
+pkginfo==1.7.0
+platformdirs==4.2.0
+plyfile==0.7.4
+pointnet2==3.0.0
+portalocker==2.8.2
+POT==0.9.3
+prometheus-client==0.14.1
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
+protobuf==3.19.0
+psutil @ file:///tmp/build/80754af9/psutil_1612298023621/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+py-cpuinfo==9.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycocotools==2.0.7
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycryptodomex==3.17
+pyDeprecate==0.3.1
+Pygments @ file:///tmp/build/80754af9/pygments_1613849567472/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1605545627475/work
+pyparsing==2.4.7
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.11.1
+PyQtWebEngine==5.15.6
+PyQtWebEngine-Qt5==5.15.2
+pyrsistent==0.18.1
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.8.2
+python-etcd==0.4.5
+pytorch-fid==0.3.0
+pytorch-lightning==1.5.2
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyWavelets==1.4.1
+PyYAML==5.4.1
+pyzmq==22.3.0
+qtconsole==5.5.1
+QtPy==2.4.1
+regex==2023.5.5
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+rsa==4.7.2
+ruamel-yaml==0.15.87
+s3transfer==0.5.2
+sacred==0.8.5
+safetensors==0.4.2
+scikit-image==0.21.0
+scikit-learn==1.1.0
+scipy==1.10.1
+seaborn==0.12.1
+Send2Trash==1.8.0
+shapely==2.0.1
+six @ file:///tmp/build/80754af9/six_1605205327372/work
+smmap==5.0.0
+sniffio==1.2.0
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1614023247537/work
+sympy==1.12
+tabulate==0.9.0
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorboardX==2.4
+termcolor==1.1.0
+terminado==0.13.3
+thop==0.1.1.post2209072238
+threadpoolctl==3.1.0
+tifffile==2023.4.12
+timm==0.9.12
+tinycss2==1.1.1
+tokenizers==0.13.3
+toml==0.10.2
+tomli==2.0.1
+tomlkit==0.10.2
+torch @ file:///root/data/Second/package/torch-2.0.0%2Bcu117-cp38-cp38-linux_x86_64.whl
+torchelastic==0.2.2
+torchmetrics==0.6.0
+torchtext==0.9.0
+torchvision @ file:///root/data/Second/package/torchvision-0.15.1%2Bcu117-cp38-cp38-linux_x86_64.whl
+tornado==6.1
+tqdm==4.65.0
+traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+transformers==4.29.1
+trimesh==3.9.34
+triton==2.0.0
+typing-extensions==4.10.0
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+visdom==0.2.4
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+websocket-client==1.3.2
+Werkzeug==2.0.2
+widgetsnbextension==3.6.0
+wrapt==1.16.0
+yacs==0.1.8
+yapf==0.32.0
+yarl==1.7.2
+zipp==3.6.0
