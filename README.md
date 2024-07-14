@@ -93,11 +93,6 @@ pip install -r requirements.txt
     sh RunRewardModel.sh
     ```
 
-##  **Updates**
-
-+ Release the code of  Human Ranking Software v1
-
-+ Release the code of  Reward Model
 
 ## Notes
 + If there are any issues with the code, please  send the email  to us
