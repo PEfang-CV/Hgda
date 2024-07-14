@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository provides the related code for our research on Human-Guided Data Augmentation for Surface Defect Recognition, including Human Ranking Software, Reward Model, Conditionnal Diffusion Model, etc.
+This repository provides the related code for our research on Human-Guided Data Augmentation for Surface Defect Recognition, including Human Ranking Software, Reward Model, etc.
 
 ## Implementation
 
